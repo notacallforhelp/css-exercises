@@ -1,0 +1,13 @@
+.common{
+    font-size:28px;
+    font-family: "Helvetica","Times New Roman",sans-serif;
+}
+
+.common.w{
+    background-color: #000000;
+    color:#ffffff;
+}
+
+.common.l{
+    background-color: #FFFF00;
+}
